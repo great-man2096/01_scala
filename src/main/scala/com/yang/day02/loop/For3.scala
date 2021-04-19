@@ -1,7 +1,7 @@
-package com.yang.day02
+package com.yang.day02.loop
 
 import scala.io.StdIn
-import scala.util.control.Breaks._
+import scala.util.control.Breaks.{break, breakable}
 
 object For3 {
   def main(args: Array[String]): Unit = {

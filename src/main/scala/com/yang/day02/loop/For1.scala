@@ -1,4 +1,4 @@
-package com.yang.day02
+package com.yang.day02.loop
 
 object For1 {
   def main(args: Array[String]): Unit = {
